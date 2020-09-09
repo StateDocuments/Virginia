@@ -1,5 +1,3 @@
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/camera1_l.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/queenanne.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/roofcam2ne500x281.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/seatac.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/waterfront.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/coliseum.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/portrait.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Virginia/blob/master/snapshot.jpg)
